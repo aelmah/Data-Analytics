@@ -13,9 +13,6 @@ The course covers several fundamental data analysis techniques, including data c
 - **Cars Data Analysis**  
   Exploring data about various cars and conducting analyses to uncover insights related to performance, cost, and efficiency.
 
-- **Police Data Analysis**  
-  Analyzing police data to uncover trends and correlations regarding crime rates and law enforcement activity.
-
 - **Covid Data Analysis**  
   Understanding the impact of the COVID-19 pandemic by analyzing global data across multiple dimensions.
 
@@ -45,4 +42,6 @@ The course covers several fundamental data analysis techniques, including data c
 
 Each project in this repository reflects the hands-on application of Python-based data analytics, which has enhanced my skills and understanding of the field. These projects have also helped me build a portfolio that demonstrates my ability to handle real-world data and extract meaningful insights.
 
+#### Links:
+- [Course on Udemy](https://www.udemy.com/course/bigdata-analysis-python/learn/lecture/37030910?start=15#overview)
 Feel free to explore the repository, dive into the code, and experiment with the datasets to deepen your understanding of data analysis with Python.
