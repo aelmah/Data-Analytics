@@ -45,4 +45,6 @@ Each project in this repository reflects the hands-on application of Python-base
 #### Links:
 - [Course Link](https://www.udemy.com/course/bigdata-analysis-python/learn/lecture/37030910?start=15#overview)
 - [Certificate of Completion](https://www.udemy.com/certificate/UC-e796c663-2d68-4352-8082-a90564774d1a/)
+
+  
 Feel free to explore the repository, dive into the code, and experiment with the datasets to deepen your understanding of data analysis with Python.
